@@ -1,0 +1,2 @@
+# CodeNinja
+Practice for algoritms
